@@ -6,6 +6,7 @@
   width: 105x;
   border-radius: 5px;
   cursor: pointer;
+  margin-right: 10px;
   
 }
 .join-button{
@@ -18,11 +19,12 @@
   width: 65px;
   border-radius: 5px;
   cursor: pointer;
+  margin-right: 10px;
   
   
 }
 .tweet-button{
-  background-color: blue;
+  background-color:rgb(33, 169, 214);
   color: white;
   border: none;
   height: 36px;
