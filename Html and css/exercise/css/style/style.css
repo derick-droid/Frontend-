@@ -9,3 +9,14 @@
   cursor: pointer;
   
 }
+.cart{
+  background-color:rgb(255, 216, 20);
+  color: black;
+  border: none;
+  font-size: large;
+  font-weight: bold;
+  width: 250px;
+  height: 50px;
+  border-radius: 25px;
+
+}
