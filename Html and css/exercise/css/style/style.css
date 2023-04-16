@@ -77,3 +77,35 @@
   margin-left: 10px;
   cursor: pointer;
 }
+p{
+  color: black;
+  font-size: large;
+  font-weight: bold;
+}
+.price{
+  color: green;
+}
+.free{
+  font-size: medium;
+  font-weight: 100;
+}
+.add{
+  background-color: rgb(255, 216, 20);
+  width: 150px;
+  height: 50px;
+  font-size: large;
+  font-weight: bold;
+  border: none;
+  border-radius: 20px;
+}
+.buy{
+  background-color:orange;
+  width: 150px;
+  height: 50px;
+  font-size: large;
+  font-weight: bold;
+  border: none;
+  border-radius: 20px;
+  margin-left: 10px;
+
+}
