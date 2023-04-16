@@ -3,17 +3,19 @@
   color: white;
   border:none;
   height: 36px;
-  width: 105px;
+  width: 105x;
   border-radius: 5px;
   cursor: pointer;
   
 }
 .join-button{
-  background-color: rgb(236, 221, 221);
+  background-color:white;
   color: blue;
-  border: none;
+  border-color: blue;
+  border-style: solid;
+  border-width: 1px;
   height: 36px;
-  width: 105px;
+  width: 65px;
   border-radius: 5px;
   cursor: pointer;
   
