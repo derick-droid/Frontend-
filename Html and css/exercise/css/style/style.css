@@ -30,3 +30,24 @@
   height: 50px;
   color: white;
 }
+.bootstrap-get{
+  background-color: rgb(167, 90, 240);
+  color: white;
+  font-size:large;
+  font-weight: bold;
+  border: none;
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+
+}
+.download{
+  background-color: white;
+  color: black;
+  font-size: large;
+  font-weight: bold;
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
