@@ -20,3 +20,13 @@
   border-radius: 25px;
 
 }
+.git-sign{
+  background-color: green;
+  border: none;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+  width: 150px;
+  height: 50px;
+  color: white;
+}
