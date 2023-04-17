@@ -33,6 +33,5 @@
   color: white;
 }
 .join-button:active{
-  background-color: ;
-  color: ;
+ opacity: 0.7;
 }
