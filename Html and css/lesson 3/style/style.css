@@ -27,7 +27,7 @@
   cursor: pointer;
   font-size: large;
   font-weight: bold;
-  transition:background-color 1s, color 1s;
+  transition:background-color 0.15s, color -.15s;
   
 }
 .join-button:hover{
@@ -47,6 +47,11 @@
   font-weight: bold;
   border-radius: 20px;
   margin-left: 10px;
+  transition: box-shadow 0.15s;
+
+}
+.tweet:hover{
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+
 
 }
