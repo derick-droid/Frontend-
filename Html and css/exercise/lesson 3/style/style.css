@@ -153,6 +153,12 @@ a:hover{
   border-radius: 20px;
   cursor: pointer;
 }
+.add:hover{
+  opacity: 0.8;
+}
+.add:active{
+  opacity: 0.5;
+}
 .buy{
   background-color: orange;
   margin-left: 10px;
@@ -164,4 +170,10 @@ a:hover{
   font-weight:bold;
   cursor: pointer;
 
+}
+.buy:hover{
+  opacity: 0.8;
+}
+.buy:active{
+  opacity: 0.5;
 }
