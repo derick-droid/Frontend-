@@ -50,7 +50,7 @@
  
 }
 .tweet-button:hover{
-  box-shadow: 5px 5px 5px 5px rgb(187, 178, 178);
+  box-shadow: 5px 5px 5px  rgb(187, 178, 178);
 }
 .tweet-button:active{
   opacity: 0.5;
