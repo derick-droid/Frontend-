@@ -166,6 +166,7 @@ a:active{
   margin-right: 10px;
   font-size: large;
   font-weight: bold;
+  transition: padding 0.15;
 }
 .two{
   background-color: green;
@@ -180,6 +181,8 @@ a:active{
   margin-right: 10px;
   font-size: large;
   font-weight: bold;
+  transition: padding 0.15;
+
 }
 .three{
   background-color: green;
@@ -194,4 +197,18 @@ a:active{
   margin-right: 10px;
   font-size: large;
   font-weight: bold;
+  transition: padding 0.15;
+
+}
+.one:hover{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.two:hover{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.three:hover{
+  padding-left: 30px;
+  padding-right: 30px;
 }
