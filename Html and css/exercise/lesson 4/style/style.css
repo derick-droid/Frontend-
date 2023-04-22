@@ -112,3 +112,24 @@ a:hover{
 a:active{
   color: red;
 }
+.stretch{
+  background-color: rgb(5, 173, 5);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  font-size: large;
+  font-weight: bold;
+  transition: padding 0.15s;
+
+}
+.stretch:hover{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
