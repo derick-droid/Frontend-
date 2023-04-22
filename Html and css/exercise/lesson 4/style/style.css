@@ -133,3 +133,23 @@ a:active{
   padding-bottom: 30px;
 
 }
+.shadow{
+  background-color: green;
+  color: whitesmoke;
+  border: none;
+  font-size: large;
+  font-weight: large;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  cursor: pointer;
+
+}
+.shadow:active{
+  padding-left: 20px;
+  padding-right: 25px;
+  padding-top: 19px;
+  padding-bottom: 19px;
+
+}
