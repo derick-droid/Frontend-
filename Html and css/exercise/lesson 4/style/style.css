@@ -61,3 +61,54 @@
 .tweet-button:active{
   opacity: 0.5;
 }
+.back{
+  background-color: white;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  border-color: gray;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight:300px;
+  transition: background-color 0.15s, color 0.15s, opacity 0.15s;
+}
+.next{
+  background-color: white;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  border-color: gray;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight:300px;
+  transition: background-color 0.15s, color 0.15s, opacity 0.15s;
+
+
+}
+.back:hover{
+  background-color: blue;
+  color: white;
+}
+.back:active{
+  opacity: 0.5;
+}
+.next:hover{
+  background-color: blue;
+  color: white;
+}
+.next:active{
+  opacity: 0.5;
+}
+a{
+  margin: 10px;
+}
+a:hover{
+  color: orange;
+}
+a:active{
+  color: red;
+}
