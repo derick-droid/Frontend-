@@ -100,9 +100,22 @@ button{
 }
 .one{
   font-size: large;
+  margin-bottom: 0px;
 }
 .usd{
   color: gray;
   font-size: small;
   margin-left: 5px;
+ 
+}
+.plus{
+  color: green;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.minus{
+  color: orangered;
+}
+.after{
+  margin-top: 5px;
 }
