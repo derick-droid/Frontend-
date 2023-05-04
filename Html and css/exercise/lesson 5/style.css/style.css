@@ -98,3 +98,11 @@ button{
 .buy:active{
   opacity: 0.5;
 }
+.one{
+  font-size: large;
+}
+.usd{
+  color: gray;
+  font-size: small;
+  margin-left: 5px;
+}
