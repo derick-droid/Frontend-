@@ -1,0 +1,14 @@
+.model{
+  color: black;
+  font-size: larger;
+  font-weight: bolder;
+  margin-bottom: 5px;
+  margin-left: 50px;
+}
+.online{
+  margin-top: 5px;
+}
+.touch{
+  text-decoration: underline;
+  
+}
