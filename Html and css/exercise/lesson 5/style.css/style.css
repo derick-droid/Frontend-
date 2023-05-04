@@ -1,3 +1,4 @@
+
 .tahoma{
   font-family: Tahoma;
   font-size: large;
@@ -54,4 +55,37 @@ button{
 }
 .see{
   padding-left: 20px;
+}
+.new{
+  color: orangered;
+  text-align: center;
+  font-family: Arial;
+  margin-bottom: 0px;
+}
+.macbook{
+  font-family: Arial;
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.super{
+  font-family: Arial;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.from{
+  text-align: center;
+  margin-top: 10px;
+}
+.buy{
+  background-color: rgb(129, 129, 235);
+  border: none;
+  border-radius: 20px;
+  margin-left: 600px;
+  
 }
