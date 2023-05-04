@@ -42,3 +42,16 @@ button{
   padding-bottom: 10px;
   border-radius: 5px;
 }
+.shopping{
+  font-family: Arial;
+  font-size: large;
+  font-weight: bold;
+ 
+}
+.learn{
+ color: blue;
+ padding-left: 50px;
+}
+.see{
+  padding-left: 20px;
+}
