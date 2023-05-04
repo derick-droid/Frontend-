@@ -119,3 +119,37 @@ button{
 .after{
   margin-top: 5px;
 }
+.freecode{
+  font-size: large;
+  font-weight: bolder;
+  margin-bottom: 5px;
+
+}
+.free2{
+  font-size: medium;
+  font-weight: 500;
+  margin-left: 5px;
+  color: grey;
+}
+.hour{
+  margin-left: 2px;
+
+}
+.web{
+  width: 500px;
+  color: black;
+  font-family: Arial;
+  font-size: 300;
+  margin-top: 5px;
+  margin-bottom: 50px;
+  
+}
+.here{
+  margin-top: 50px;
+  color: black;
+  font-family: Arial;
+
+}
+.ch{
+  color:rgb(95, 95, 247)
+}
