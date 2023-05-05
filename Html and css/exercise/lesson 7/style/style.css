@@ -59,3 +59,37 @@
   
   
 }
+.fourth{
+  border-radius: 100px;
+  width: 50px;
+  vertical-align: middle;
+}
+.cart{
+  margin-left: 20px;
+  vertical-align: middle;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+ 
+}
+.tweet{
+  background-color:rgb(75, 206, 250);
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  border: none;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  transition: 0.15s;
+
+}
+.tweet:hover{
+  opacity: 0.8;
+}
+.tweet:active{
+  opacity: 0.5;
+}
