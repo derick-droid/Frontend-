@@ -16,3 +16,46 @@
   border-radius: 150px;
 
 }
+.search-one{
+  border-radius: 5px;
+  border-color:grey;
+
+}
+.search-shadow{
+  width: 500px;
+  height: 55px;
+  border-radius: 30px;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 16px;
+}
+.email{
+  color: grey;
+}
+.email-box{
+  width: 200px;
+}
+.clicking{
+  color: grey;
+}
+.agree{
+  background-color:rgb(100, 100, 212);
+  border: none;
+  color:white;
+  padding-left:100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 100px;
+  border-radius:30px;
+  font-size: large;
+  font-weight: bold;
+  cursor: pointer;
+  
+  
+}
