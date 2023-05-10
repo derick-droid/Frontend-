@@ -4,5 +4,8 @@
 }
 .video-preview{
   width: 300px;
-  display: inline-block;
+ display: inline-block;
+}
+.search-bar{
+  display: block;
 }
