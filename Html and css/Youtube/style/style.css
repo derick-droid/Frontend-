@@ -6,6 +6,8 @@
   width: 300px;
  display: inline-block;
  margin-right: 20px;
+ vertical-align: top;
+
 }
 .search-bar{
   display: block;
