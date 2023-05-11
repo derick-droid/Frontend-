@@ -5,6 +5,7 @@
 .video-preview{
   width: 300px;
  display: inline-block;
+ margin-right: 20px;
 }
 .search-bar{
   display: block;
