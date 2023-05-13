@@ -10,3 +10,13 @@
     height: 100px;
    
 }
+.services{
+   border-width: 1px;
+   border-style: solid;
+   margin-left: 20px;
+   border-color: rgb(150, 150, 150);
+   width: 300px;
+   padding-left: 15px;
+   padding-bottom: 20px;
+
+}
