@@ -157,3 +157,49 @@
     width: 150px;
     height: 150px;
 }
+.google{
+    margin-left: 350px;
+}
+.search{
+    width: 350px;
+    display: block;
+    margin-top: 10px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    font-size: large;
+}
+.google-logo{
+    padding-left: 50px;
+}
+.google-search{
+    margin-top: 30px;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    cursor: pointer;
+}
+.lucky{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    cursor: pointer;
+}
+.button2{
+   margin-left: 100px;
+}
