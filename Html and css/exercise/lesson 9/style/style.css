@@ -20,3 +20,20 @@
    padding-bottom: 20px;
 
 }
+.paragraphs{
+    background-color: rgb(66, 58, 58);
+    padding-right: 300px;
+    width: 100px;
+}
+.install{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    margin-left: 10px;
+    width: 300px;
+}
+.add{
+    color: white;
+    margin-left: 10px;
+    width: 300px;
+}
