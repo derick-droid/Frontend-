@@ -87,3 +87,46 @@
 .tweet:active{
     opacity: 0.5;
 }
+.file{
+    margin-left: 100px;
+    margin-top: 20px;
+    
+}
+
+.cat2{
+    width: 150px;
+    
+}
+.oliver{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-bottom: 5px;
+
+}
+.add-friend{
+    background-color:rgb(16, 113, 151);
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    transition: opacity 015s;
+    margin-left: 10px;
+    margin-bottom: 15px;
+
+
+}
+.file{
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    width: 150px;
+   
+}
+.mutual{
+    margin-left: 15px;
+    margin-top: 5px;
+}
