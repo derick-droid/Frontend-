@@ -130,3 +130,26 @@
     margin-left: 15px;
     margin-top: 5px;
 }
+.display{
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    width: 479px;
+
+    
+}
+.file1{
+    display: inline-block;
+    margin-right: 10px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+
+}
+.file2{
+    display: inline-block;
+    margin-right: 10px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+
+}
+.file3{
+    display: inline-block;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+
+}
