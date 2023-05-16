@@ -36,6 +36,7 @@ p{
     font-weight: 200;
     color: rgb(96, 96, 96);
     margin-bottom: 5px;
+    width: 100px;
 }
 .popular{
     font-weight: 300;
@@ -62,4 +63,17 @@ p{
 }
 .follow:active{
     opacity: 0.5;
+}
+.draw-1{
+    margin-top: 3px;
+    margin-left: 20px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    width: 400px;
+}
+.draw-2{
+    margin-top: 3px;
+    margin-left: 20px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    width: 400px;
+
 }
