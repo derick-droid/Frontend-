@@ -10,3 +10,17 @@
 .firts-col{
     background-color: lightblue;
 }
+.two{
+    display: grid;
+    grid-template-columns: 50px 1fr 75px ;
+    
+}
+.fifty{
+    background-color: lightblue;
+}
+.fr{
+    background-color: pink;
+}
+.senvty-five{
+    background-color: lightblue;
+}
