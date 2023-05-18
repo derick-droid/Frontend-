@@ -1,13 +1,12 @@
 .thumbnails{
-  width: 300px;
-  display: block;
+  width: 100%;
 }
-.video-preview{
+/* .video-preview{
  display: inline-block;
  margin-right: 10px;
  vertical-align: top;
 
-}
+} */
 .search-bar{
   display: block;
 }
@@ -61,6 +60,10 @@ p{
   margin-top: 10px;
   /* margin-right: 5px; */
   
+}
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 
