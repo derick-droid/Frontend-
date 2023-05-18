@@ -1,0 +1,12 @@
+.columns{
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+.next-col{
+    background-color: pink;
+    display: grid;
+    grid-template-columns: 75px;
+}
+.firts-col{
+    background-color: lightblue;
+}
