@@ -41,9 +41,30 @@
    margin-left: 100px;
    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
    width: 160px;
-   height: 240px;
+   height: 250px;
+  
 
 }
+/* .photo1{
+    margin-top: 20px;
+    margin-left: 100px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    width: 160px;
+    height: 240px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+ 
+ }
+ .photo2{
+    margin-top: 20px;
+    margin-left: 100px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    width: 160px;
+    height: 240px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+ 
+ } */
 .cat{
     width: 160px;
   
@@ -75,5 +96,10 @@
     padding-top: 15px;
     padding-bottom: 15px;
     margin-left: 5px;
-    marg
+   
+}
+.grid{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 3px;
 }
