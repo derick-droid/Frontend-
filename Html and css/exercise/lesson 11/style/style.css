@@ -29,6 +29,7 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     column-gap: 16px;
     row-gap: 10px;
+    
 }
 .col1{
     background-color: pink;
@@ -36,10 +37,43 @@
 
 }
 .photo{
-    margin-top: 20px;
+   margin-top: 20px;
    margin-left: 100px;
+   box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+   width: 160px;
+   height: 240px;
+
 }
 .cat{
-    width: 150px;
+    width: 160px;
   
+}
+.olive-paragraph{
+    margin-bottom: 0px;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+.picture-profile{
+    width: 30px;
+    border-radius: 150px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.mutual{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+.add{
+    background-color: rgb(51, 51, 238);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 5px;
+    marg
 }
