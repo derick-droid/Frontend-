@@ -1,0 +1,12 @@
+.quiz-one {
+    display: flex;
+}
+.first {
+    background-color: lightblue;
+    width: 200px;
+
+}
+.second {
+    background-color: lightcoral;
+    width: 75px;
+}
