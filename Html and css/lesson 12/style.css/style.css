@@ -1,0 +1,10 @@
+.one{
+    background-color: lightblue;
+}
+.two{
+    background-color: pink;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
