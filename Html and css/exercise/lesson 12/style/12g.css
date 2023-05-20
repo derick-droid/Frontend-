@@ -1,0 +1,67 @@
+
+p {
+    margin: 0px;
+}
+.social {
+    margin-left: 50px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 50px;
+    width: 300px;
+    
+   
+}
+.firts-person {
+    width: 50px;
+    margin-right: 10px;
+
+}
+
+.cat1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.olive {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.cat {
+    color: gray;
+    margin-bottom: 3px;
+
+}
+.popular {
+    color: gray;
+    margin-bottom: 3px;
+
+}
+.paragraphs {
+    margin-bottom: 10px;
+    vertical-align: middle;
+    width: 300px;
+}
+button {
+    background-color: rgb(8, 122, 160);
+    border: none;
+    border-radius: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-size: large;
+    font-weight: 900;
+    transition: opacity 0.15s;
+}
+button:hover{
+    opacity: 0.8;
+}
+button:active {
+    opacity: 0.5;
+}
+    
