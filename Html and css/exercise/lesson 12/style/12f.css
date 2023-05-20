@@ -1,0 +1,43 @@
+.design {
+    background-color: purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+
+}
+
+.left-section {
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.middle-section {
+    font-size: large;
+    
+}
+.right-section {
+    margin-right: 10px;
+}
+.search {
+    font-size: large;
+    font-weight: 500;
+    border-radius: 15px;
+    width: 500px;
+    height: 30px;
+    border: none;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+
+}
+button {
+    background-color: rgb(88, 20, 88);
+    color: white;
+    border-style: solid;
+    border-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
