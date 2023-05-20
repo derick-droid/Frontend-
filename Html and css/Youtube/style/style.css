@@ -7,18 +7,9 @@
  vertical-align: top;
 
 } */
-.search-bar{
-  display: block;
-}
 
-p{
-    
-    line-height: 20px;
-    font-family: Robot, Arial;
-    width: 250px; 
-    margin-top: 0;
-    margin-bottom: 0;
-}
+
+
 .video-title{
     font-size:small;
     font-weight: 600;
