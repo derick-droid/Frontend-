@@ -1,0 +1,43 @@
+.design{
+    width: 400px;
+    height: 200px;
+    border-color: gray;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    
+
+
+}
+.home {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.home-paragraph {
+    color: black;
+    font-size: 500;
+    font-weight: 900;
+
+}
+.fourteen {
+    background-color: rgb(8, 143, 189);
+    color: white;
+    border: none;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.fourteen:hover {
+    opacity: 0.8;
+}
+.fourteen:active {
+    opacity: 0.5;
+}
