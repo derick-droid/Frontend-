@@ -1,0 +1,24 @@
+.design{
+    display: flex;
+    flex-direction: row;
+}
+.item{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    color: white;
+    align-items: center;
+
+}
+.item-one {
+    background-color: black;
+    width: 35px;
+    height: 20px;
+    align-items: center;
+    margin-left: 20px;
+}
+.item-two {
+    background-color: lightblue;
+    width: 200px;
+}
