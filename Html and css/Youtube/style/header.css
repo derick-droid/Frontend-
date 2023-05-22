@@ -79,3 +79,15 @@
     background-color: rgb(9, 89, 116);
     width: 200px;
 }
+.upload-icon {
+    height: 24px;
+}
+.youtube-apps-icon {
+    height: 24px;
+}
+.notification {
+    height: 24px;
+}
+.profile-pic {
+    height: 40px;
+}
