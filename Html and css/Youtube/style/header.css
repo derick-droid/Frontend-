@@ -78,6 +78,9 @@
 .right-section {
     background-color: rgb(9, 89, 116);
     width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .upload-icon {
     height: 24px;
