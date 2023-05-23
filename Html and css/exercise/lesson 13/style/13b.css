@@ -1,0 +1,36 @@
+p {
+    margin-top: 0px;
+}
+.design {
+     display: flex;
+     flex-direction: row;
+}
+.blank {
+    background-color: pink;
+    width: 200px;
+    height: 50px;
+}
+.pink {
+    background-color: lightblue;
+    width: 500px;
+    height: 50px;
+}
+.last {
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.row1 {
+    margin-bottom: 0px;
+     
+}
+.row2 {
+    background-color: black;
+    color: white;
+}
+.row3 {
+    background-color: black;
+    color: white;
+
+}
