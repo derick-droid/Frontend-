@@ -1,6 +1,11 @@
 .design{
     display: flex;
     flex-direction: row;
+    
+
+}
+.box {
+    color: gray;
 }
 .item{
     background-color: pink;
