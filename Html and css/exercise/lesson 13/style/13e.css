@@ -1,0 +1,64 @@
+p {
+    margin: 0px;
+}
+.whole {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    width: 650px;
+    height: 380px;
+
+
+}
+.design {
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+   
+    
+}
+.top {
+    display: flex;
+    margin-top: 20px;
+    
+}
+.box {
+    color: gray;
+    margin-left: 80px;
+}
+.next-phase {
+    display: flex;
+    margin-top: 50px;
+}
+.cat {
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+}
+.paragraphs {
+    margin-left: 5px;
+}
+
+
+.first-paragraphs {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+.second-paragraphs {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+
+}
+.third-paragraphs {
+    color: gray;
+    
+}
+.time-paragraph {
+    color: gray;
+    margin-top: 50px;
+}
