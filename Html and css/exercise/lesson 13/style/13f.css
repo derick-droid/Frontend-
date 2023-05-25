@@ -1,5 +1,35 @@
+.container {
+    display: flex;
+}
+p {
+    margin: 0;
+}
 .cat {
     width: 50px;
     height: 50px;
     border-radius: 300px;
+}
+.paragraphs {
+    margin-left: 10px;
+}
+.sipledev {
+    display: flex;
+}
+.first-paragraphs {
+    font-size: large;
+    font-weight: bold;
+}
+.second-paragraphs {
+    width: 350px;
+    font-weight: 500;
+    font-size: 500;
+    line-height: 20px;
+    color: rgb(39, 36, 36);
+}
+.tag-paragraphs {
+    color: gray;
+    font-size: large;
+    font-weight: 500;
+    margin-left: 5px;
+   
 }
