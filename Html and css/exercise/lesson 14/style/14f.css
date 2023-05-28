@@ -1,0 +1,43 @@
+.container {
+    background-color:gray;
+    width: 300px;
+    display: flex;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+}
+.left-sidebar {
+    background-color:rgb(136, 132, 132);
+    width: 100px;
+    height: 500px;
+    margin: 20px;
+}
+.middle {
+    background-color: rgb(56, 53, 53);
+    width: 300px;
+}
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+.info {
+    color: white;
+}
+.symbol {
+    color: white;
+   font-size: larger;
+}
+.images {
+    margin-left: 10px;
+    margin-left: 10px;
+}
+.cat {
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+}
+.images1 {
+    margin-top: 10px;
+   
+}
