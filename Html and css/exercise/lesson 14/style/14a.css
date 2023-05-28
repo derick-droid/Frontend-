@@ -1,9 +1,10 @@
 .bottom-right {
     background-color: black;
     color: white;
-    position: fixed;
+
     
-    bottom: 50px;
-    left: 1000px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
     align-items: right;
 }
