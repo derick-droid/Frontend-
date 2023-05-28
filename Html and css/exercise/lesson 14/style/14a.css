@@ -2,6 +2,8 @@
     background-color: black;
     color: white;
     position: fixed;
-    top: 50px;
-    left: 100px;
+    
+    bottom: 50px;
+    left: 1000px;
+    align-items: right;
 }
