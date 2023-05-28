@@ -1,4 +1,7 @@
 .bottom-right {
     background-color: black;
     color: white;
+    position: fixed;
+    top: 50px;
+    left: 100px;
 }
