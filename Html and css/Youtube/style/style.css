@@ -62,11 +62,17 @@
 .video-time {
   font-family: Roboto, Arial;
   font-size: 15px;
+  font-weight: 500;
   background-color: black;
   color: white;
   position: absolute;
   bottom: 100px;
   right: 5px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+
 }
 
 
