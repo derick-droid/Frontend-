@@ -60,11 +60,13 @@
   row-gap: 40px;
 }
 .video-time {
+  font-family: Roboto, Arial;
+  font-size: 15px;
   background-color: black;
   color: white;
   position: absolute;
   bottom: 100px;
-  right: 0;
+  right: 5px;
 }
 
 
