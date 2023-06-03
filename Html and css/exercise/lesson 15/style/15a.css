@@ -1,0 +1,21 @@
+body {
+    height: 300000px;
+}
+.x {
+    background-color: black;
+    color: white;
+    font-family: Roboto, Arial;
+    font-size:large;
+    font-weight: bold;
+    border: none;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 100px;
+    position: absolute;
+    top:20px;
+    right:30px;
+    
+
+}
