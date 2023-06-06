@@ -6,3 +6,8 @@
     background-color: white;
     width: 75px;
 }
+.sidelink {
+    background-color: lightgrey;
+    height: 75px;
+    margin-top: 1px;
+}
