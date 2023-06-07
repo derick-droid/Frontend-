@@ -7,7 +7,9 @@
     width: 75px;
 }
 .sidelink {
-    background-color: lightgrey;
-    height: 75px;
+    height: 76px;
     margin-top: 1px;
+}
+.sidelink:hover {
+    background-color: rgb(235, 233, 233);
 }
