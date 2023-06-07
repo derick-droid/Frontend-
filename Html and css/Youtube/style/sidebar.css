@@ -9,7 +9,14 @@
 .sidelink {
     height: 76px;
     margin-top: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .sidelink:hover {
     background-color: rgb(235, 233, 233);
 }
+.sidelink img {
+    height: 25px;
+}
+
