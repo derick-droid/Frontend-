@@ -12,11 +12,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 .sidelink:hover {
     background-color: rgb(235, 233, 233);
 }
 .sidelink img {
     height: 25px;
+}
+.sidelink div {
+    font-family: Roboto, Arial;
+    font-size: 12px;
 }
 
