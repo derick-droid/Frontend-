@@ -5,6 +5,7 @@
     top: 50px;
     background-color: white;
     width: 75px;
+    z-index: 200;
 }
 .sidelink {
     height: 76px;
@@ -19,6 +20,7 @@
 }
 .sidelink img {
     height: 25px;
+    margin-bottom: 4px;
 }
 .sidelink div {
     font-family: Roboto, Arial;
