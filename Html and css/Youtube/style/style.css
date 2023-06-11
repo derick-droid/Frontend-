@@ -54,6 +54,7 @@
   
 }
 .video-grid{
+  font-family: Roboto, Arial;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 16px;
@@ -79,7 +80,6 @@
 
 }
 .video-time {
-  font-family: Roboto, Arial;
   font-size: 15px;
   font-weight: 500;
   background-color: black;
