@@ -52,6 +52,10 @@
 
 .search-button .tooltip {
     position: absolute;
+
+    background-color: gray;
+    color: white;
+    padding-top: 4px;
 }
 .search-bar {
     height: 45px;
