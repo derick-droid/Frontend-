@@ -63,6 +63,7 @@
 .search-button .tooltip,
 .voice-search-button .tooltip,
 .upload-icon-container .tooltip {
+    font-family: Roboto, Arial;
     position: absolute;
 
     background-color: gray;
