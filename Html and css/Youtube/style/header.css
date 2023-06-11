@@ -51,6 +51,9 @@
 
 .search-button , 
 .voice-search-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: relative;
 
 
@@ -97,7 +100,6 @@
 }
 .search-icon {
     width: 25px;
-    margin-top: 4px;
    
 
     
@@ -113,7 +115,6 @@
 }
 .voice-search-icon {
     height: 25px;
-    margin-top: 5px;
 
 }
 
