@@ -1,12 +1,12 @@
 p{
     
     line-height: 20px;
-    font-family: Robot, Arial;
     width: 250px; 
     margin-top: 0;
     margin-bottom: 0;
 }
 body{
+    font-family: Roboto, Arial;
     margin: 0px;
     padding-top: 80px;
     padding-left: 100px;
