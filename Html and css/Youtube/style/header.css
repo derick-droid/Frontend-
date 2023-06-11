@@ -62,7 +62,16 @@
 
     border-radius: 2px;
     font-size: 12px;
+
+    bottom: -30px;
+    opacity: 0;
+    transition: 0.15s;
 }
+
+.search-button:hover .tooltip {
+    opacity: 1;
+}
+
 .search-bar {
     height: 45px;
     width: 400px;
