@@ -46,6 +46,12 @@
     /* border-color: rgb(245, 240, 240); */
     margin-left: -1px;
     margin-right: 10px;
+
+    position: relative;
+}
+
+.search-button .tooltip {
+    position: absolute;
 }
 .search-bar {
     height: 45px;
